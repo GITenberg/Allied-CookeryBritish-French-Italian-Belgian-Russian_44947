@@ -1,0 +1,48 @@
+_repo: Allied-CookeryBritish-French-Italian-Belgian-Russian_44947
+_version: 0.1.0
+contributor:
+  author_of_introductions:
+  - agent_name: Wilcox, Ella Wheeler
+    alias: Wheeler, Ella
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '1138'
+    url: http://www.gutenberg.org/2009/agents/1138
+    wikipedia: http://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+  - agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+  - agent_name: Dandurand, Raoul
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '45014'
+    url: http://www.gutenberg.org/2009/agents/45014
+  compilers:
+  - agent_name: Harrison, Grace Clergue
+    gutenberg_agent_id: '42999'
+    url: http://www.gutenberg.org/2009/agents/42999
+  - agent_name: Clergue, Gertrude
+    gutenberg_agent_id: '43000'
+    url: http://www.gutenberg.org/2009/agents/43000
+covers:
+- cover_type: archival
+  image_path: 44947-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44947'
+  lccn: '16014069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: 'Allied Cookery: British, French, Italian, Belgian, Russian'
+url: http://www.gutenberg.org/ebooks/44947
